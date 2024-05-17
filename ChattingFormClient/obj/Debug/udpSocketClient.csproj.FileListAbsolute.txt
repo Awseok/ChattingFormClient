@@ -1,0 +1,10 @@
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Debug\udpSocketClient.exe.config
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Debug\udpSocketClient.exe
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Debug\udpSocketClient.pdb
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.csproj.AssemblyReference.cache
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.Form1.resources
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.Properties.Resources.resources
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.csproj.GenerateResource.cache
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.exe
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Debug\udpSocketClient.pdb

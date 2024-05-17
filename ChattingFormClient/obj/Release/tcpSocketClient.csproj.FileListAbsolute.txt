@@ -1,0 +1,9 @@
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Release\udpSocketClient.exe.config
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Release\udpSocketClient.exe
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\bin\Release\udpSocketClient.pdb
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\udpSocketClient.Form1.resources
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\udpSocketClient.Properties.Resources.resources
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\tcpSocketClient.csproj.GenerateResource.cache
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\tcpSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\udpSocketClient.exe
+C:\Users\HYJ\source\repos\udpSocketClient\udpSocketClient\obj\Release\udpSocketClient.pdb
